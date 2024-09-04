@@ -1,3 +1,16 @@
-body(
-    background-color: rgb 0, 0, 0
-    )
+body{
+    background-color: black;
+    font-family: "Dancing Script", cursive
+    display: fiel;
+    justify-content: center;
+    align-item: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button{
+    background-color: blue;
+    font-family: "Dancing Script", cursive;
+}
+
