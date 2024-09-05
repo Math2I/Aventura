@@ -1,16 +1,15 @@
 body{
     background-color: black;
-    font-family: "Dancing Script", cursive
-    display: fiel;
+    font-family: "Dancing Script", cursive;
+    display: flex;
     justify-content: center;
-    align-item: center;
+    align-items: center;
     height: 700px;
     margin: 0;
 
 }
 
 button{
-    background-color: blue;
+    background-color:azure;
     font-family: "Dancing Script", cursive;
 }
-
